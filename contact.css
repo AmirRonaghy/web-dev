@@ -1,0 +1,21 @@
+body {
+  background-color: HoneyDew;
+  font-family: Helvetica;
+}
+
+h1  {
+  text-align: center;
+}
+
+a  {
+border: 1px solid purple;
+background-color: HoneyDew;
+}
+
+table, th, td   {
+  border: 2px solid pink;
+}
+
+form  {
+  background-color: PaleGreen;
+}
