@@ -1,0 +1,21 @@
+body {
+  background-color: lightskyblue;
+}
+
+h1 {
+  color: palevioletred;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  color: rebeccapurple;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+a {
+  font-weight: bolder;
+}

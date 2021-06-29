@@ -1,0 +1,86 @@
+body  {
+  background-color: #ccffeb;
+}
+
+h1  {
+  background-color: #ffb3b3;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  border: 4px solid blue;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+img {
+  filter: grayscale(100%);
+}
+
+img:hover {
+  filter: none;
+}
+
+.intro  {
+  background-color: #ffff99;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+
+.paintings  {
+  position: relative;
+  border: 4px solid #ff9900;
+  margin-right: 20px;
+}
+
+.titles {
+  display: none;
+}
+
+.titles > p  {
+  float: left;
+  padding-left: 20px;
+  padding-right: 180px;
+}
+
+.paintings:hover .titles  {
+  display: block;
+}
+
+.creativity {
+  background-color: #99ccff;
+  position: relative;
+  padding-top: 60px;
+  margin: 50px;
+  height: 100px;
+  width: 500px;
+}
+
+.defImg  {
+  height: 250px;
+  width: 350px;
+}
+
+.copyright  {
+  background-color: #ffb366;
+  position: relative;
+  left: 10px;
+  width: 200px;
+}
+
+.shop {
+  background-color: #ff8080;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  padding: 5px;
+}
+
+#african  {
+  height: 300px;
+  width: 200px;
+}
+
+#krishna  {
+  height: 300px;
+  width: 300px;
+}

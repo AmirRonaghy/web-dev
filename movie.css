@@ -1,0 +1,31 @@
+body  {
+  background-color: #1a001a;
+}
+
+h1  {
+  font-family: Andale Mono, monospace;
+  color: #F71F07;
+  text-align: center;
+}
+
+img {
+  height: 200px;
+  width: 350px;
+  padding: 40px;
+}
+
+.posters  {
+  background-color: #666699;
+  position: relative;
+  left: 150px;
+  height: 300px;
+  width: 900px;
+}
+
+.copyright  {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  font-family: Times, Times New Roman, serif;
+  color: white;
+}

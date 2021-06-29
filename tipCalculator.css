@@ -1,0 +1,31 @@
+body  {
+  background-color: pink;
+  font-family: Helvetica, sans-serif;
+}
+
+div > h2  {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.calculator {
+  position: absolute;
+  top: 100px;
+  left: 450px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 25px;
+}
+
+#calcButton {
+  background-color: red;
+  color: white;
+  text-align: center;
+  height: 40px;
+  width: 180px;
+  margin-left: 60px;
+}
